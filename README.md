@@ -1,6 +1,6 @@
 Unscramble App
 ===================================
-This is an Android Open Source Project where I made the app retrieve all of its business logic and 
+This is an Android Open Source Project where I made a contribution that the app retrieve all of its business logic and 
 data from ViewModel
 Starter code for Android Basics codelab - Store the data in a ViewModel
 
